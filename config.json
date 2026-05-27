@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefync",
+        "uuid": 2240720,
+        "checksum": "i1xg2v"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
